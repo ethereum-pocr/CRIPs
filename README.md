@@ -1,2 +1,2 @@
 # CRIPs
-Carbon Reduction Improvement Proposals
+Climate awaReness Improvement Proposals
